@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/tranthianhthu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhthu20112003.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 21 Sep 2022 10:12:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Sep 2022 13:01:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,62 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://anhthu20112003.github.io/mywordpress/2022/09/21/chao-moi-nguoi/</link>
-					<comments>https://anhthu20112003.github.io/mywordpress/2022/09/21/chao-moi-nguoi/#comments</comments>
+		<title>Black Coffee &#038; Cookies</title>
+		<link>https://anhthu20112003.github.io/mywordpress/2022/09/23/black-coffee-cookies/</link>
+					<comments>https://anhthu20112003.github.io/mywordpress/2022/09/23/black-coffee-cookies/#respond</comments>
 		
 		<dc:creator><![CDATA[tranthianhthu]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 10:12:29 +0000</pubDate>
+		<pubDate>Fri, 23 Sep 2022 13:01:47 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://anhthu20112003.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://anhthu20112003.github.io/mywordpress/?p=148</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
 										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://anhthu20112003.github.io/mywordpress/2022/09/21/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>https://anhthu20112003.github.io/mywordpress/2022/09/23/black-coffee-cookies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hangout With Coffee?</title>
+		<link>https://anhthu20112003.github.io/mywordpress/2022/09/23/hangout-with-coffee/</link>
+					<comments>https://anhthu20112003.github.io/mywordpress/2022/09/23/hangout-with-coffee/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthianhthu]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 13:00:02 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://anhthu20112003.github.io/mywordpress/?p=146</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhthu20112003.github.io/mywordpress/2022/09/23/hangout-with-coffee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Best Barista This Month</title>
+		<link>https://anhthu20112003.github.io/mywordpress/2022/09/23/1/</link>
+					<comments>https://anhthu20112003.github.io/mywordpress/2022/09/23/1/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthianhthu]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 12:55:45 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://anhthu20112003.github.io/mywordpress/?p=140</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhthu20112003.github.io/mywordpress/2022/09/23/1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
